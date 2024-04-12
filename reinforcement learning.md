@@ -3,6 +3,7 @@
 ## Motivation
 For Relaxing In My Terrible Life...
 
+## NFL 定理（No Free Lunch）
 
 
 
