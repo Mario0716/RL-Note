@@ -1,5 +1,5 @@
 # RL-Note
-RL-Note mainly includes the notes of learning RL theory, algoriythm and code.
+RL-Note mainly includes the notes of learning RL theory, algoriythm and code.⛽️
 
 ## In note part,
 Note my own understanding of RL-theory and idea. Besides, some paper reading is necessary.
