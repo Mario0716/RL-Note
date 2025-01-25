@@ -1,7 +1,7 @@
 # RL-Note
 RL-Note mainly includes the notes of learning RL theory, algoriythm and code.⛽️
 
-I learn about reinforcement theory from shuhuai008 on Bilibi website
+I learn about reinforcement theory from [shuhuai008](https://space.bilibili.com/97068901) on Bilibi website
 
 ***************************************************************************************
 Chaptor                                  Status                         Time
