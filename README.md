@@ -7,8 +7,10 @@ I learn about reinforcement theory from shuhuai008 on Bilibi website
 Chaptor                                  Status                         Time
 ***************************************************************************************
 Markove Decision Procession                ✅                         2025.01.24
+
 Dynamic Programming                        ✅                         2025.01.25
-Montre Carlo
+
+Monte Carlo Method                         ⌛️
 ***************************************************************************************
 
 
