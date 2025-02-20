@@ -17,4 +17,5 @@ Update the code recurrence and add detailed explanation of RL-algorithm.✍️
 
 ## ROS🤖
 I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili.com/video/BV1BP4y1o7pw) on Bilibili website.
-Completion: 3/77 ⌛️
+
+Completion: 7/77 ⌛️
