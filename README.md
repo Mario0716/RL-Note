@@ -8,6 +8,7 @@ I learn about reinforcement theory from [shuhuai008](https://space.bilibili.com/
 |Markove Decision Procession|✅|2025.01.24|
 |Dynamic Programming|✅|2025.01.25|
 |Monte Carlo Method|⌛️| |
+|Gaussian Process|✅|2025.03.10|
 
 ## note 📒
 Note my own understanding of RL-theory and idea.🧠 Besides, some paper reading is necessary.📖
