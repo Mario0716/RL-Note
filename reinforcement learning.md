@@ -5,10 +5,7 @@ For Relaxing In My Terrible Life...
 
 ## NFL 定理（No Free Lunch）
 
-原理
-$
-\mathbb{E}_{ote}(\zeta_a|X, f) = \sum_{h} \sum_{x \in \mathcal{X} - X}P(x)I(h(x) \neq f(x))P(h|X,\zeta_a)
-$
+原理 $ \mathbb{E}_{ote}(\zeta_a|X, f) = \sum_{h} \sum_{x \in \mathcal{X} - X}P(x)I(h(x) \neq f(x))P(h|X,\zeta_a) $
 
 一种假设h(x)的错误期望
 $\sum_{x\in\mathcal{X} - X} P(x)I(h(x) \neq f(x))$
