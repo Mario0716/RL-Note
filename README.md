@@ -9,6 +9,7 @@ I learn about reinforcement theory from [shuhuai008](https://space.bilibili.com/
 |Dynamic Programming|✅|2025.01.25|
 |Monte Carlo Method|⌛️| |
 |Gaussian Process|✅|2025.03.10|
+|Gaussian Mixture Model|✅|2025.04.23|
 
 ## note 📒
 Note my own understanding of RL-theory and idea.🧠 Besides, some paper reading is necessary.📖
