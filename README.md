@@ -13,6 +13,12 @@ I learn about reinforcement theory from [shuhuai008](https://space.bilibili.com/
 
 Besides, I also learn about RL with [Weinan Zhang](https://space.bilibili.com/3546754433681656/lists/4126508?type=season) on bilibili website.
 
+| Chaptor   | Status |
+| :----- | :--: |
+|Imitation Learning I| ✅ |
+|Imitation Learning II||✅|
+|Offline Reinforcement Learning|✅|
+
 ## note 📒
 Note my own understanding of RL-theory and idea.🧠 Besides, some paper reading is necessary.📖
 
