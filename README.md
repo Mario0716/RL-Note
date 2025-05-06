@@ -16,7 +16,7 @@ Besides, I also learn about RL with [Weinan Zhang](https://space.bilibili.com/35
 | Chaptor   | Status |
 | :----- | :--: |
 |Imitation Learning I| ✅ |
-|Imitation Learning II||✅|
+|Imitation Learning II|✅|
 |Offline Reinforcement Learning|✅|
 
 ## note 📒
