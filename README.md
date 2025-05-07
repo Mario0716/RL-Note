@@ -18,6 +18,7 @@ Besides, I also learn about RL with [Weinan Zhang](https://space.bilibili.com/35
 |Imitation Learning I| ✅ |
 |Imitation Learning II|✅|
 |Offline Reinforcement Learning|✅|
+|Multi-Agent Reinforcement Learning I|✅|
 
 ## note 📒
 Note my own understanding of RL-theory and idea.🧠 Besides, some paper reading is necessary.📖
