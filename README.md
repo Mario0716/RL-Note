@@ -20,6 +20,7 @@ Besides, I also learn about RL with [Weinan Zhang](https://space.bilibili.com/35
 |Offline Reinforcement Learning|✅|
 |Multi-Agent Reinforcement Learning I|✅|
 |Multi-Agent Reinforcement Learning II|✅|
+|Diffusion Models for Reinforcement Learning|✅|
 
 ## note 📒
 Note my own understanding of RL-theory and idea.🧠 Besides, some paper reading is necessary.📖
