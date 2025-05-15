@@ -11,7 +11,7 @@ I learn about reinforcement theory from [shuhuai008](https://space.bilibili.com/
 |Gaussian Process|✅|2025.03.10|
 |Gaussian Mixture Model|✅|2025.04.23|
 
-Besides, I also learn about RL with [Weinan Zhang](https://space.bilibili.com/3546754433681656/lists/4126508?type=season) on bilibili website.
+Besides, I also learn about RL with [Prof.Weinan Zhang](https://space.bilibili.com/3546754433681656/lists/4126508?type=season) on bilibili website.
 
 | Chaptor   | Status |
 | :----- | :--: |
